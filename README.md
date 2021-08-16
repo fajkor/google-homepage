@@ -12,4 +12,4 @@ Chrome DevTools:
 I used "inspect" from chrome developer tools mainly to explore CSS selectors, properties and their values on the original Google Homepage and implement those on the Google Homepage clone. I did a very light use of "inspect" on my Google Homepage clone.
 
 Shortcommings: 
-I didn't made the page responsive. I haven't used any comments in my code. 
+I didn't make the page responsive. I haven't used any comments in my code. 
